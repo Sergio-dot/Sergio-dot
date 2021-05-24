@@ -1,5 +1,5 @@
 <h2> Introduction </h2>
-Hi there 👋 I am a Computer Science living in Reggio Calabria, Italy.
+Hi there 👋 I am a Computer Science student living in Reggio Calabria, Italy.
 
 <h2> Social </h2>
 
