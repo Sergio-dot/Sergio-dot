@@ -3,6 +3,6 @@ Hi there 👋 I am a Computer Science student living in Reggio Calabria, Italy.
 
 <h2> Social </h2>
 
-<a href="https://github.com/Sergio-dot"> <img src="https://img.shields.io/badge/GitHub-Sergio--dot-lightgrey">
+<a href="https://github.com/Sergio-dot"><img src="https://img.shields.io/static/v1?message=Sergio-dot&logo=github&labelColor=5c5c5c&color=1182c3&logoColor=white&label=%20">
   
 <h2> Languages </h2>
