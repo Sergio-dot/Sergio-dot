@@ -1,24 +1,24 @@
-<svg width="230" height="70" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+<svg width="220" height="50" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
  <g>
   <title>Layer 1</title>
-  <g stroke="null" id="svg_27">
-   <g stroke="null" id="svg_26">
+  <g id="svg_27" stroke="null">
+   <g id="svg_26" stroke="null">
     <title stroke="null">Layer 1</title>
-    <g stroke="null" id="svg_14">
-     <g stroke="null" id="svg_15">
+    <g id="svg_14" stroke="null">
+     <g id="svg_15" stroke="null">
       <title stroke="null">Layer 1</title>
-      <g stroke="null" id="svg_18">
-       <g stroke="null" shape-rendering="crispEdges" id="svg_22">
-        <rect stroke="null" height="72.279" fill="#000000" id="svg_24" y="-1.73671" x="-1.8068" width="0"/>
-        <rect stroke="null" x="-1.80674" width="63.24129" height="72.279" fill="#000000" id="svg_23" y="-1.73671"/>
+      <g id="svg_18" stroke="null">
+       <g shape-rendering="crispEdges" id="svg_22" stroke="null">
+        <rect height="65.30847" fill="#000000" id="svg_24" y="-4.76618" x="0.1932" width="0" stroke="null"/>
+        <rect x="0.19325" width="61.61093" height="65.30847" fill="#000000" id="svg_23" y="-4.76618" stroke="null"/>
        </g>
-       <g stroke="null" fill="#fff" text-anchor="middle" font-family="Verdana,Geneva,DejaVu Sans,sans-serif" text-rendering="geometricPrecision" font-size="110" id="svg_20">
-        <image stroke="null" x="7.06673" y="6.59109" width="45.35344" height="50.59529" xlink:href="data:image/svg+xml;base64,PHN2ZyBmaWxsPSJ3aGl0ZXNtb2tlIiByb2xlPSJpbWciIHZpZXdCb3g9IjAgMCAyNCAyNCIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj48dGl0bGU+R2l0SHViIGljb248L3RpdGxlPjxwYXRoIGQ9Ik0xMiAuMjk3Yy02LjYzIDAtMTIgNS4zNzMtMTIgMTIgMCA1LjMwMyAzLjQzOCA5LjggOC4yMDUgMTEuMzg1LjYuMTEzLjgyLS4yNTguODItLjU3NyAwLS4yODUtLjAxLTEuMDQtLjAxNS0yLjA0LTMuMzM4LjcyNC00LjA0Mi0xLjYxLTQuMDQyLTEuNjFDNC40MjIgMTguMDcgMy42MzMgMTcuNyAzLjYzMyAxNy43Yy0xLjA4Ny0uNzQ0LjA4NC0uNzI5LjA4NC0uNzI5IDEuMjA1LjA4NCAxLjgzOCAxLjIzNiAxLjgzOCAxLjIzNiAxLjA3IDEuODM1IDIuODA5IDEuMzA1IDMuNDk1Ljk5OC4xMDgtLjc3Ni40MTctMS4zMDUuNzYtMS42MDUtMi42NjUtLjMtNS40NjYtMS4zMzItNS40NjYtNS45MyAwLTEuMzEuNDY1LTIuMzggMS4yMzUtMy4yMi0uMTM1LS4zMDMtLjU0LTEuNTIzLjEwNS0zLjE3NiAwIDAgMS4wMDUtLjMyMiAzLjMgMS4yMy45Ni0uMjY3IDEuOTgtLjM5OSAzLS40MDUgMS4wMi4wMDYgMi4wNC4xMzggMyAuNDA1IDIuMjgtMS41NTIgMy4yODUtMS4yMyAzLjI4NS0xLjIzLjY0NSAxLjY1My4yNCAyLjg3My4xMiAzLjE3Ni43NjUuODQgMS4yMyAxLjkxIDEuMjMgMy4yMiAwIDQuNjEtMi44MDUgNS42MjUtNS40NzUgNS45Mi40Mi4zNi44MSAxLjA5Ni44MSAyLjIyIDAgMS42MDYtLjAxNSAyLjg5Ni0uMDE1IDMuMjg2IDAgLjMxNS4yMS42OS44MjUuNTdDMjAuNTY1IDIyLjA5MiAyNCAxNy41OTIgMjQgMTIuMjk3YzAtNi42MjctNS4zNzMtMTItMTItMTIiLz48L3N2Zz4=" id="svg_21"/>
+       <g fill="#fff" text-anchor="middle" font-family="Verdana,Geneva,DejaVu Sans,sans-serif" text-rendering="geometricPrecision" font-size="110" id="svg_20" stroke="null">
+        <image x="8.83796" y="2.75849" width="44.18423" height="45.71592" xlink:href="data:image/svg+xml;base64,PHN2ZyBmaWxsPSJ3aGl0ZXNtb2tlIiByb2xlPSJpbWciIHZpZXdCb3g9IjAgMCAyNCAyNCIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj48dGl0bGU+R2l0SHViIGljb248L3RpdGxlPjxwYXRoIGQ9Ik0xMiAuMjk3Yy02LjYzIDAtMTIgNS4zNzMtMTIgMTIgMCA1LjMwMyAzLjQzOCA5LjggOC4yMDUgMTEuMzg1LjYuMTEzLjgyLS4yNTguODItLjU3NyAwLS4yODUtLjAxLTEuMDQtLjAxNS0yLjA0LTMuMzM4LjcyNC00LjA0Mi0xLjYxLTQuMDQyLTEuNjFDNC40MjIgMTguMDcgMy42MzMgMTcuNyAzLjYzMyAxNy43Yy0xLjA4Ny0uNzQ0LjA4NC0uNzI5LjA4NC0uNzI5IDEuMjA1LjA4NCAxLjgzOCAxLjIzNiAxLjgzOCAxLjIzNiAxLjA3IDEuODM1IDIuODA5IDEuMzA1IDMuNDk1Ljk5OC4xMDgtLjc3Ni40MTctMS4zMDUuNzYtMS42MDUtMi42NjUtLjMtNS40NjYtMS4zMzItNS40NjYtNS45MyAwLTEuMzEuNDY1LTIuMzggMS4yMzUtMy4yMi0uMTM1LS4zMDMtLjU0LTEuNTIzLjEwNS0zLjE3NiAwIDAgMS4wMDUtLjMyMiAzLjMgMS4yMy45Ni0uMjY3IDEuOTgtLjM5OSAzLS40MDUgMS4wMi4wMDYgMi4wNC4xMzggMyAuNDA1IDIuMjgtMS41NTIgMy4yODUtMS4yMyAzLjI4NS0xLjIzLjY0NSAxLjY1My4yNCAyLjg3My4xMiAzLjE3Ni43NjUuODQgMS4yMyAxLjkxIDEuMjMgMy4yMiAwIDQuNjEtMi44MDUgNS42MjUtNS40NzUgNS45Mi40Mi4zNi44MSAxLjA5Ni44MSAyLjIyIDAgMS42MDYtLjAxNSAyLjg5Ni0uMDE1IDMuMjg2IDAgLjMxNS4yMS42OS44MjUuNTdDMjAuNTY1IDIyLjA5MiAyNCAxNy41OTIgMjQgMTIuMjk3YzAtNi42MjctNS4zNzMtMTItMTItMTIiLz48L3N2Zz4=" id="svg_21" stroke="null"/>
        </g>
-       <line stroke="null" fill="none" x1="76.33651" y1="-0.79393" x2="76.33651" y2="70.22804" id="svg_19"/>
+       <line fill="none" x1="76.32197" y1="-3.91432" x2="76.32197" y2="60.25834" id="svg_19" stroke="null"/>
       </g>
-      <rect stroke="null" fill="#666666" x="61.10067" y="-2.04227" width="169.83105" height="72.279" id="svg_17"/>
-      <text stroke="null" fill="#ffffff" x="-124.41329" y="-72.76887" id="svg_16" stroke-width="0" text-anchor="start" xml:space="preserve" transform="matrix(1.66796 0 0 2.0201 282.572 190.94)" font-weight="normal" font-style="normal" font-family="monospace">@Sergio-dot</text>
+      <rect fill="#666666" x="61.47891" y="-5.04227" width="165.45282" height="65.30847" id="svg_17" stroke="null"/>
+      <text fill="#ffffff" x="-122.56709" y="-74.9603" id="svg_16" stroke-width="0" text-anchor="start" xml:space="preserve" transform="matrix(1.62496 0 0 1.82529 274.241 173.329)" font-weight="normal" font-style="normal" font-family="monospace" stroke="null">@Sergio-dot</text>
      </g>
     </g>
    </g>
