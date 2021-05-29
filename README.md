@@ -1,5 +1,5 @@
   <h2> Introduction </h2>
-    <p>Hi there 👋 I am a Computer Science student living in Reggio Calabria, Italy.<p>
+    <p>Hi there 👋 I am a Computer Science student at University of Messina living in Reggio Calabria, Italy.<p>
 
   <h2> Social </h2>
     <a href="https://www.linkedin.com/in/sergio-siclari-60225b15b/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
