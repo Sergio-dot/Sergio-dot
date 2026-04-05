@@ -1,3 +1,5 @@
+  <h2> Website </h2>
+    <a href="https://sergio-dot.github.io/">
   <h2> Social </h2>
     <a href="https://www.linkedin.com/in/sergio-siclari-60225b15b/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
   <h2> Language </h2>
